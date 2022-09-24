@@ -24,3 +24,8 @@ The picture galerry follows the common fate principle because it helps with grou
 
 Common region:
 This applies to the picture gallery, footer section as well as the header sectionbelow the first photo on the first page.
+
+
+
+Deliver in your description on GitHub
+https://www.figma.com/file/lxrGnrJI1MR2F0pCyTkB2C/UI-Redesign-GestaltPrinciples?node-id=0%3A1
